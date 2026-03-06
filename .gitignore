@@ -1,0 +1,5 @@
+# Jupyter Notebook 的临时文件
+.ipynb_checkpoints/
+# Python 的缓存文件
+__pycache__/
+*.py[cod]
